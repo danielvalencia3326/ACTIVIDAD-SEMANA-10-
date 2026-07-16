@@ -3,7 +3,8 @@
 - Tarea 2: Recibir alerta en Telegram (historia 2).
 
 ¿Por qué son las más importantes?
-Porque sin poder registrar incidencias, la plataforma no sirve. Y sin la alerta, el equipo no se entera a tiempo, lo que retrasa la respuesta. Son la base funcional del proyecto.
+Porque sin poder registrar incidencias, la plataforma no sirve. Y sin la alerta, el equipo no se entera a tiempo, lo 
+que retrasa la respuesta. Son la base funcional del proyecto.
 
 ¿Qué significa para ti que una tarea esté “terminada”?
 Mi definición de terminado incluye:
