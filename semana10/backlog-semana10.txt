@@ -1,12 +1,14 @@
 Historias de usuario (priorizadas de mayor a menor):
 
 1. Como vecino, quiero proponer una idea para mi barrio para que otros residentes la conozcan y la apoyen.
-   Prioridad: Alta (es la acción principal de la plataforma).
+Prioridad: Alta (es la acción principal de la plataforma).
 
-2. Como líder comunitario, quiero recibir un aviso cuando alguien proponga una nueva idea para poder revisarla y guiar el proceso.
+2. Como líder comunitario, quiero recibir un aviso cuando alguien proponga una nueva idea para poder revisarla y guia 
+el proceso.
    Prioridad: Alta (permite una respuesta rápida y organizada).
 
-3. Como participante, quiero ver un listado de todas las propuestas activas para conocer qué están impulsando otros vecinos.
+3. Como participante, quiero ver un listado de todas las propuestas activas para conocer qué están impulsando otros 
+vecinos.
    Prioridad: Media (fomenta la transparencia y la participación).
 
 4. Como vecino, quiero saber cuántos apoyos tiene mi propuesta para medir el interés de la comunidad.
