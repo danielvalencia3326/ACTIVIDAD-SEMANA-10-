@@ -2,8 +2,13 @@ Flujo de automatización con n8n y Telegram:
 
 - Evento que activa el flujo: Cuando una propuesta vecinal alcanza 10 apoyos en la plataforma.
 
-- Acción que realiza el flujo: n8n detecta el umbral cumplido y envía un resumen de la propuesta (título, descripción y número de apoyos) al grupo de Telegram de la junta de acción comunal, para que los líderes sepan que ya tiene suficiente respaldo para ser discutida en la próxima reunión.
+- Acción que realiza el flujo: n8n detecta el umbral cumplido y envía un resumen de la propuesta (título, descripción 
+y número de apoyos) al grupo de Telegram de la junta de acción comunal, para que los líderes sepan que ya tiene 
+suficiente respaldo para ser discutida en la próxima reunión.
 
-- Mensaje que se enviaría a Telegram: "¡Propuesta lista para reunión! La iniciativa '[título]' ya tiene 10 apoyos. Incluir en el orden del día de la próxima junta."
+- Mensaje que se enviaría a Telegram: "¡Propuesta lista para reunión! La iniciativa '[título]' ya tiene 10 apoyos. 
+Incluir en el orden del día de la próxima junta."
 
-- Información que NO debe enviarse por seguridad: No se envían nombres de los apoyantes, ni correos, ni teléfonos. Tampoco se envía información de contacto del creador de la propuesta. Solo el título y el conteo de apoyos, que son datos públicos y no sensibles.
+- Información que NO debe enviarse por seguridad: No se envían nombres de los apoyantes, ni correos, ni teléfonos. 
+Tampoco se envía información de contacto del creador de la propuesta. Solo el título y el conteo de apoyos, que son 
+datos públicos y no sensibles.
